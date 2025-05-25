@@ -1,4 +1,4 @@
-Crime Data Analysis – Excel Dashboard
+**Crime Data Analysis – Excel Dashboard**
 
 •	Developed an Excel dashboard to analyze 40K+ crime records using pivot tables, slicers, and charts. Applied Excel skills in data cleaning.
 
